@@ -1,0 +1,58 @@
+        // pismena
+        Abeceda_Mapa.put(".-", 'a');
+        Abeceda_Mapa.put("-...", 'b');
+        Abeceda_Mapa.put("-.-.", 'c');
+        Abeceda_Mapa.put("-..", 'd');
+        Abeceda_Mapa.put(".", 'e');
+        Abeceda_Mapa.put("..-.", 'f');
+        Abeceda_Mapa.put("--.", 'g');
+        Abeceda_Mapa.put("....", 'h');
+        Abeceda_Mapa.put("..", 'i');
+        Abeceda_Mapa.put(".---", 'j');
+        Abeceda_Mapa.put("-.-", 'k');
+        Abeceda_Mapa.put(".-..", 'l');
+        Abeceda_Mapa.put("--", 'm');
+        Abeceda_Mapa.put("-.", 'n');
+        Abeceda_Mapa.put("---", 'o');
+        Abeceda_Mapa.put(".--.", 'p');
+        Abeceda_Mapa.put("--.-", 'q');
+        Abeceda_Mapa.put(".-.", 'r');
+        Abeceda_Mapa.put("...", 's');
+        Abeceda_Mapa.put("-", 't');
+        Abeceda_Mapa.put("..-", 'u');
+        Abeceda_Mapa.put("...-", 'v');
+        Abeceda_Mapa.put(".--", 'w');
+        Abeceda_Mapa.put("-..-", 'x');
+        Abeceda_Mapa.put("-.--", 'y');
+        Abeceda_Mapa.put("--..", 'z');
+
+        // čísla
+        Abeceda_Mapa.put("-----", '0');
+        Abeceda_Mapa.put(".----", '1');
+        Abeceda_Mapa.put("..---", '2');
+        Abeceda_Mapa.put("...--", '3');
+        Abeceda_Mapa.put("....-", '4');
+        Abeceda_Mapa.put(".....", '5');
+        Abeceda_Mapa.put("-....", '6');
+        Abeceda_Mapa.put("--...", '7');
+        Abeceda_Mapa.put("---..", '8');
+        Abeceda_Mapa.put("----.", '9');
+
+        // speciální znaky
+        Abeceda_Mapa.put("/", ' ');
+        Abeceda_Mapa.put("--..--", ',');
+        Abeceda_Mapa.put(".-.-.-", '.');
+        Abeceda_Mapa.put("..--..", '?');
+        Abeceda_Mapa.put("-.-.-.", ';' );
+        Abeceda_Mapa.put("---...", ':');
+        Abeceda_Mapa.put("-.--.", '(');
+        Abeceda_Mapa.put("-.--.-", ')');
+        Abeceda_Mapa.put(".-.-.", '+');
+        Abeceda_Mapa.put("-....-", '-');
+        Abeceda_Mapa.put("..--.-", '_');
+        Abeceda_Mapa.put(".-..-.", '"');
+        Abeceda_Mapa.put(".----.", '\'');
+        Abeceda_Mapa.put("-..-.", '\\');
+        Abeceda_Mapa.put(".--.-.", '@');
+        Abeceda_Mapa.put("-...-", '=');
+        Abeceda_Mapa.put("-.-.--", '!');
